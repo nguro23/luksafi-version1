@@ -1,1 +1,1 @@
-export 'o3d.dart' show O3d;
+export 'o3d.dart';
